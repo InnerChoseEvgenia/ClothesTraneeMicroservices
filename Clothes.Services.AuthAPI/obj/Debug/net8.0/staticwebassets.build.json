@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3Nv1G9WLAhz+jSdwq37bycnsUW8cvCAFryqNUKknXnU=",
+  "Source": "Clothes.Services.AuthAPI",
+  "BasePath": "_content/Clothes.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
